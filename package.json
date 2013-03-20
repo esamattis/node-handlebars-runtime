@@ -1,0 +1,15 @@
+{
+  "name": "handlebars-runtime",
+  "version": "1.0.10",
+  "description": "Handlebars runtime only",
+  "main": "handlebars.runtime.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/epeli/node-handlebars-runtime.git"
+  },
+  "keywords": [
+    "handlebars"
+  ],
+  "author": "Esa-Matti Suuronen",
+  "license": "MIT"
+}
